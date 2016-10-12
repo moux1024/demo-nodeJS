@@ -1,0 +1,25 @@
+{
+  "name": "imooc",
+  "description": "nodeJS",
+  "main": "",
+  "authors": [
+    "xt <i421wuxia@126.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "imooc"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
